@@ -1,4 +1,4 @@
-## DLLInjector  [![CodeFactor](https://www.codefactor.io/repository/github/sxaxq/win_injector/badge)](https://www.codefactor.io/repository/github/sxaxq/win_injector)
+## DLLInjector                  [![CodeFactor](https://www.codefactor.io/repository/github/sxaxq/win_injector/badge)](https://www.codefactor.io/repository/github/sxaxq/win_injector)
 
 <hr>
 
