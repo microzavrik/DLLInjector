@@ -1,4 +1,4 @@
- [![CodeFactor](https://www.codefactor.io/repository/github/sxaxq/win_injector/badge)](https://www.codefactor.io/repository/github/sxaxq/win_injector)
+[![CodeFactor](https://www.codefactor.io/repository/github/sxaxq/dllinjector/badge)](https://www.codefactor.io/repository/github/sxaxq/dllinjector)
 ### DLLInjector
 
 <hr>
@@ -11,4 +11,4 @@ Just a working injector for Windows with a beautiful interface on Qt6
 
 ## Screenshot
 
-![Image alt](https://github.com/sxaxq/win_injector/raw/master/rep_resources/123.png)
+![Image alt](https://github.com/sxaxq/DLLInjector/raw/master/rep_resources/123.png)
